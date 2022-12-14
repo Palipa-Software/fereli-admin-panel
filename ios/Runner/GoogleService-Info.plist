@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1029076770680-each6dd8c3pluk6e1cf6miphf72l2vto.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1029076770680-each6dd8c3pluk6e1cf6miphf72l2vto</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1029076770680-oa7c11r4eru2165in2st08f7d1fn0v9n.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbpUoylwPbC9i21AMZrWl-kWrtmWsv3Xw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1029076770680</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.palipasoftware.fereliAdminPanel</string>
+	<key>PROJECT_ID</key>
+	<string>dorm-app15</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dorm-app15.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1029076770680:ios:5c6cc4007ec0fa27efb28d</string>
+</dict>
+</plist>
